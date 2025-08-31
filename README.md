@@ -1,7 +1,8 @@
 ## Привет! Я — Кирилл 👋
 
-Я начинающий разработчик, изучаю Python и C++, углубляюсь в алгоритмы и структуры данных.  
-Моя цель — стать сильным инженером-программистом и развиваться в IT.
+💻 Начинающий разработчик, изучаю Python и C++, осваиваю PostgreSQL.  
+📚 Углубляюсь в алгоритмы и структуры данных.  
+🎯 Цель — стать сильным инженером-программистом и расти в сфере IT.  
 
 ---
 
@@ -9,8 +10,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
