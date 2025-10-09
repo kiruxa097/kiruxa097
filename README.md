@@ -16,7 +16,7 @@
 
 ## 🏆 Codeforces Stats
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=kiruxa097&theme=react-dark&hide_border=true&area=true)
+![Codeforces Rating](https://img.shields.io/badge/dynamic/json?color=blue&label=Codeforces&query=rating&url=https://competitive-coding-api.vercel.app/api/codeforces/kiruxa097)
 
 **Profile:** https://codeforces.com/profile/kiruxa097
 
