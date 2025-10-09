@@ -16,7 +16,11 @@
 
 ## 🏆 Codeforces Stats
 
-![Profile Card](https://codeforces-readme-stats.vercel.app/api/card?username=kiruxa097)
+[![Rating](https://badge.vercel.app/api/codeforces/rating/kiruxa097)](https://codeforces.com/profile/kiruxa097)
+[![Solved](https://badge.vercel.app/api/codeforces/solved/kiruxa097)](https://codeforces.com/profile/kiruxa097)  
+[![Rank](https://badge.vercel.app/api/codeforces/rank/kiruxa097)](https://codeforces.com/profile/kiruxa097)
+
+**Profile:** https://codeforces.com/profile/kiruxa097
 
 ---
 
