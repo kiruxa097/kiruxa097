@@ -14,6 +14,14 @@
 
 ---
 
+## 🏆 Codeforces Stats
+
+[![Codeforces Rating](https://badge.vercel.app/api/codeforces/rating/kiruxa097)](https://codeforces.com/profile/kiruxa097)
+[![Codeforces Solved](https://badge.vercel.app/api/codeforces/solved/kiruxa097)](https://codeforces.com/profile/kiruxa097)
+[![Codeforces Rank](https://badge.vercel.app/api/codeforces/rank/kiruxa097)](https://codeforces.com/profile/kiruxa097)
+
+---
+
 ## 🛠 Портфолио
 
 В моём [GitHub Portfolio](https://github.com/kiruxa097/my-portfolio) можно узнать обо мне, моих навыках и проектах.
