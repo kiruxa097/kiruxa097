@@ -16,9 +16,7 @@
 
 ## 🏆 Codeforces Stats
 
-- **Rating**: [![Rating](https://codeforces-readme-badge.vercel.app/api/rating?handle=kiruxa097)](https://codeforces.com/profile/kiruxa097)
-- **Solved**: [![Solved](https://codeforces-readme-badge.vercel.app/api/solved?handle=kiruxa097)](https://codeforces.com/profile/kiruxa097)
-- **Rank**: [![Rank](https://codeforces-readme-badge.vercel.app/api/rank?handle=kiruxa097)](https://codeforces.com/profile/kiruxa097)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=kiruxa097)
 
 ---
 
