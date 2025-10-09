@@ -16,7 +16,7 @@
 
 ## 🏆 Codeforces Stats
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=kiruxa097)
+![CF Card](https://codeforces-readme-stats.vercel.app/api/card?username=kiruxa097&theme=default)
 
 ---
 
