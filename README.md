@@ -17,7 +17,6 @@
 ## 🏆 Codeforces Stats
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=kiruxa097&theme=dark)](https://codeforces.com/profile/kiruxa097)
-![Codeforces Rating](https://img.shields.io/badge/dynamic/json?color=orange&label=Rating&query=rating&url=https://competitive-coding-api.vercel.app/api/codeforces/kiruxa097)
 
 **Profile:** https://codeforces.com/profile/kiruxa097
 
