@@ -16,9 +16,7 @@
 
 ## 🏆 Codeforces Stats
 
-[![Rating](https://badge.vercel.app/api/codeforces/rating/kiruxa097)](https://codeforces.com/profile/kiruxa097)
-[![Solved](https://badge.vercel.app/api/codeforces/solved/kiruxa097)](https://codeforces.com/profile/kiruxa097)  
-[![Rank](https://badge.vercel.app/api/codeforces/rank/kiruxa097)](https://codeforces.com/profile/kiruxa097)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=kiruxa097&theme=react-dark&hide_border=true&area=true)
 
 **Profile:** https://codeforces.com/profile/kiruxa097
 
