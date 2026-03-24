@@ -1,20 +1,12 @@
-## Привет! Я — Кирилл 👋
+## Привет! Я — Кирилл
 
-💻 Начинающий разработчик, изучаю Python и C++, осваиваю PostgreSQL.  
-📚 Углубляюсь в алгоритмы и структуры данных.  
-🎯 Цель — стать сильным инженером-программистом и расти в сфере IT.  
+##  Мой стек
 
+- Python, C++, C.
+- Linux, Bash
 ---
 
-## 📦 Мой стек
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 🏆 Codeforces Stats
+##  Codeforces Stats
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=kiruxa097&theme=dark)](https://codeforces.com/profile/kiruxa097)
 
@@ -26,10 +18,9 @@
 
 В моём [GitHub Portfolio](https://github.com/kiruxa097/my-portfolio) можно узнать обо мне, моих навыках и проектах.
 
-
 ---
 
-## 📂 Проекты
+##  Проекты
 
 - [Репозиторий с проектами на Python](https://github.com/kiruxa097/python-projects)
 - [Репозиторий с проектами на C++](https://github.com/kiruxa097/cpp-projects)
