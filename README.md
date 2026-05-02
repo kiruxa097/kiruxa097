@@ -1,9 +1,16 @@
 ## Привет! Я — Кирилл
 
-##  Мой стек
+## 🛠️ Технологический стек
 
-- Python, C++, C.
-- Linux, Bash
+**Языки:** Python, C++, C  
+**Backend:** SQLAlchemy  
+**Базы данных:** PostgreSQL, Alembic  
+**API:** проектирование REST API-контрактов (OpenAPI/Swagger), описание эндпоинтов, схем запросов/ответов, ошибок и бизнес-логики
+**ML / Data:** NumPy, scikit-learn (базовые модели, кросс-валидация)  
+**Системы:** Linux  
+**Скрипты:** Bash (базовый уровень)  
+**Инструменты:** Git, GitHub  
+
 ---
 
 ##  Codeforces Stats
@@ -17,14 +24,6 @@
 ## 🛠 Портфолио
 
 В моём [GitHub Portfolio](https://github.com/kiruxa097/my-portfolio) можно узнать обо мне, моих навыках и проектах.
-
----
-
-##  Проекты
-
-- [Репозиторий с проектами на Python](https://github.com/kiruxa097/python-projects)
-- [Репозиторий с проектами на C++](https://github.com/kiruxa097/cpp-projects)
-
 
 ---
 
