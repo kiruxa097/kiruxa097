@@ -3,8 +3,7 @@
 ## 🛠️ Технологический стек
 
 **Языки:** Python, C++, C  
-**Backend:** SQLAlchemy  
-**Базы данных:** PostgreSQL, Alembic  
+**Базы данных:** PostgreSQL, Alembic, SQLAlchemy 
 **API:** проектирование REST API-контрактов (OpenAPI/Swagger), описание эндпоинтов, схем запросов/ответов, ошибок и бизнес-логики
 **ML / Data:** NumPy, scikit-learn (базовые модели, кросс-валидация)  
 **Системы:** Linux  
