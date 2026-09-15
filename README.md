@@ -14,12 +14,6 @@ ML, DL, CV
 
 ---
 
-## 🛠 Портфолио
-
-В моём [GitHub Portfolio](https://github.com/kiruxa097/my-portfolio) можно узнать обо мне, моих навыках и проектах.
-
----
-
 ## 📬 Контакты
 - Telegram: @kiruxa097
 - Email: kiruxa097@yandex.ru
