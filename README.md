@@ -1,18 +1,3 @@
-## Привет! Я — Кирилл
-
-## 🛠️ Технологический стек
-
-ML, DL, CV
-
----
-
-##  Codeforces Stats
-
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=kiruxa097&theme=dark)](https://codeforces.com/profile/kiruxa097)
-
-**Profile:** https://codeforces.com/profile/kiruxa097
-
----
 
 ## 📬 Контакты
 - Telegram: @kiruxa097
